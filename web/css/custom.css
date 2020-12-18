@@ -1,0 +1,11 @@
+*{
+    ;
+}
+
+@font-face {
+    font-family: "B Yekan";
+    src: url("../fonts/B_Yekan/Yekan.ttf");
+}
+body{
+    font-family:  "B Yekan" !important;
+}
